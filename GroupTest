@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="flipkart">
+    <classes>
+      <class name="com.suit1.Flipkart"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Snapdeal">
+    <classes>
+      <class name="com.suit2.Snapdeal"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
